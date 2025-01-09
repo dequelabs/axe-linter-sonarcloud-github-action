@@ -6,7 +6,9 @@ You will need to download a copy of the **[axe-linter-connector](https://docs.de
 
 If using a platform other than linux you will need to update the command in the bash scripts (ie: change `axe-linter-connector-linux` to`axe-linter-connector-macos` or `axe-linter-connector-win.exe`).
 
-**Note:** it maybe possible to deploy this scripts in other CI/CD pipelines.
+**Notes:**
+* It may be possible to deploy these scripts in other CI/CD pipelines.
+* There is more than one way to get axe-linter-connector running in your GitHub pipelines, including checking out/cloning it from another repository and using a self-hosted runner that includes axe-linter-connector.
 
 ## Bash Scripts
 
