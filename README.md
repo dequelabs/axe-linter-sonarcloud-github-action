@@ -8,7 +8,7 @@ If using a platform other than linux you will need to update the command in the 
 
 **Notes:**
 * It may be possible to deploy these scripts in other CI/CD pipelines.
-* There is more than one way to get axe-linter-connector running in your GitHub pipelines, including checking out/cloning it from another repository and using a self-hosted runner that includes axe-linter-connector.
+* There is more than one way to get axe-linter-connector running in your GitHub pipelines, including **checking out/cloning it from another repository** and **using a self-hosted runner** that includes axe-linter-connector.
 
 ## Bash Scripts
 
