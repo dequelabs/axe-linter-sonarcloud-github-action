@@ -1,4 +1,4 @@
-# axe Linter Connector GitHub Action 
+# axe Linter Connector and SonarQube Cloud Integration with GitHub Action
 
 You will need to download a copy of the **[axe-linter-connector](https://docs.deque.com/linter/4.0.0/en/downloads)** for your runner's platform and place it in the root of your project along with the bash scripts contained here.
 
