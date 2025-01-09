@@ -10,8 +10,8 @@ If using a platform other than linux you will need to update the command in the 
 
 ## Bash Scripts
 
-**axe-liner-full.sh** - Lints all files in the repository
-**axe-liner-changed.sh** - Lints only changed files
+* **axe-liner-full.sh** - Lints all files in the repository
+* **axe-liner-changed.sh** - Lints only changed files
 
 ## GitHub Action YML
 ```yml
